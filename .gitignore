@@ -1,0 +1,21 @@
+*.sqlite3
+*.sqlite3-*
+*.sqlite3~
+*.db
+*.db-*
+*.enc
+*.backup
+backup*
+data/
+dist/
+build/
+*.spec
+.env
+__pycache__/
+*.py[cod]
+work_import*
+
+# Imported customer/contact material and generated documents
+sources/
+import-previews/
+quotes/
